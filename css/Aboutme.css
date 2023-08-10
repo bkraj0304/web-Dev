@@ -1,0 +1,47 @@
+.image_css{
+    width: 500px;
+    height: 550px;
+}
+.imgdiv_css{
+    margin-top: 0px !important;
+    height: 180px;
+}
+.aboutme_fonttext{
+    color: #0c4aaf;
+    font-size: 90px;
+    margin: 10px auto 0 auto;
+    font-family:"Lugrasimo 208px";
+
+}
+.aboutme_hii_there_fonttext{
+    color: #0c4aaf;
+    font-size: 70px;
+    margin: 50px auto 0 auto;
+    font-family:"Lugrasimo 208px";
+    text-align: left;
+    padding-left: 30px;
+    margin-top: 115px;
+}
+
+.aboutme_iamfonttext{
+    color: #0c4aaf;
+    margin: 50px auto 0 auto;
+    font-family:"Noto Sans Japanese";
+    text-align: left;
+    padding-left: 33px;
+    margin-top: 115px;
+    font-size: 40px;
+    margin-top: 15px;
+}
+
+.aboutme_highlights{
+    color: #f02b6a;
+    font-size: 60px;
+}
+.background_css{
+    background-image: url("../background_img.jpg");
+}
+    
+
+
+

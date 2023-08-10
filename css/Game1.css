@@ -1,0 +1,35 @@
+.title_css{
+    text-align: center;
+    font-family: 'Rubik Wet Paint', cursive !important;
+    font-size: 110px;
+    color: rgb(151, 21, 21);
+
+}
+.player_css{
+    font-family: 'Rubik Wet Paint', cursive;
+    font-family: 'Yatra One', cursive;
+    text-align: center;
+    font-size: 55px;
+}
+.dice_css{
+    padding-top: 55px;
+    padding-left: 5px;
+}
+
+.refreshbtn_css{
+    text-align: center;
+    padding-top: 80px;
+}
+.refresh_css{
+    font-size: 40px !important;
+    background-color: rgb(151, 21, 21) !important;
+    padding-left: 35px;
+    padding-right: 35px;
+    font-family: 'Roboto Slab', serif !important;
+    font-family: 'Rubik Wet Paint', cursive !important;
+    font-family: 'Yatra One', cursive !important;
+
+}
+.main_css{
+    background-color: lightgrey;
+}
